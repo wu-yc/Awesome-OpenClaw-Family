@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](#-contributing)
 [![License: CC0](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/Awesome-OpenClaw-Family?style=social)](https://github.com/YOUR_GITHUB_USERNAME/Awesome-OpenClaw-Family/stargazers)
+[![Stars](https://img.shields.io/github/stars/wu-yc/Awesome-OpenClaw-Family?style=social)](https://github.com/wu-yc/Awesome-OpenClaw-Family/stargazers)
 
 *一份经过严格筛选的 OpenClaw 生态系统地图：涵盖核心运行时、通道、技能注册表、工作流 Shell、安全加固、部署方案以及真实世界的使用案例。*
 
