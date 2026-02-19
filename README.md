@@ -5,9 +5,11 @@
 [![License: CC0](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/Awesome-OpenClaw-Family?style=social)](https://github.com/YOUR_GITHUB_USERNAME/Awesome-OpenClaw-Family/stargazers)
 
+[中文版](README_ZH.md)
+
 *A rigorously curated map of the OpenClaw ecosystem: core runtime, channels, skill registry, workflow shell, security hardening, deployments, and real-world usage.*
 
-> ⭐️⭐️⭐️⭐️⭐️ Give this repo a star ⭐️⭐️⭐️⭐️⭐️
+> Give this repo a star if it helps you ship a better local-first assistant.
 
 **Maintainer:** `@wu-yc` · **PRs welcome** · **Snapshot date:** **2026-02-18** (metrics may drift slightly after this date)
 
@@ -454,6 +456,11 @@ PRs are welcome. Please follow the conventions above.
 - (2026-02-18) **Local-first Software (Ink & Switch)** [📄 Docs](https://www.inkandswitch.com/local-first/)
 - (2026-02-18) **MITRE ATLAS** [📄 Docs](https://atlas.mitre.org)
 
-## Star History
+---
 
-[![Star History Chart](https://api.star-history.com/svg?repos=wu-yc/Awesome-OpenClaw-Family&type=date&legend=top-left)](https://www.star-history.com/#wu-yc/Awesome-OpenClaw-Family&type=date&legend=top-left)
+## 12. Star History
+
+- OpenClaw (core) star history: https://star-history.com/#openclaw/openclaw&Date
+- ClawHub (registry) star history: https://star-history.com/#openclaw/clawhub&Date
+
+---
