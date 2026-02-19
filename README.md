@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](#-contributing)
 [![License: CC0](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/Awesome-OpenClaw-Family?style=social)](https://github.com/YOUR_GITHUB_USERNAME/Awesome-OpenClaw-Family/stargazers)
+[![Stars](https://img.shields.io/github/stars/wu-yc/Awesome-OpenClaw-Family?style=social)](https://github.com/wu-yc/Awesome-OpenClaw-Family/stargazers)
 
 [中文版](README_ZH.md)
 
