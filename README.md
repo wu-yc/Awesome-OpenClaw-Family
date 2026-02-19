@@ -454,11 +454,6 @@ PRs are welcome. Please follow the conventions above.
 - (2026-02-18) **Local-first Software (Ink & Switch)** [📄 Docs](https://www.inkandswitch.com/local-first/)
 - (2026-02-18) **MITRE ATLAS** [📄 Docs](https://atlas.mitre.org)
 
----
+## Star History
 
-## 12. Star History
-
-- OpenClaw (core) star history: https://star-history.com/#openclaw/openclaw&Date
-- ClawHub (registry) star history: https://star-history.com/#openclaw/clawhub&Date
-
----
+[![Star History Chart](https://api.star-history.com/svg?repos=wu-yc/Awesome-OpenClaw-Family&type=date&legend=top-left)](https://www.star-history.com/#wu-yc/Awesome-OpenClaw-Family&type=date&legend=top-left)
