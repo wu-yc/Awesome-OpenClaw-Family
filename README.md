@@ -7,7 +7,7 @@
 
 *A rigorously curated map of the OpenClaw ecosystem: core runtime, channels, skill registry, workflow shell, security hardening, deployments, and real-world usage.*
 
-> Give this repo a star if it helps you ship a better local-first assistant.
+> ⭐️⭐️⭐️⭐️⭐️ Give this repo a star ⭐️⭐️⭐️⭐️⭐️
 
 **Maintainer:** `@wu-yc` · **PRs welcome** · **Snapshot date:** **2026-02-18** (metrics may drift slightly after this date)
 
