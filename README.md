@@ -9,7 +9,7 @@
 
 > Give this repo a star if it helps you ship a better local-first assistant.
 
-**Maintainer:** `@YOUR_GITHUB_USERNAME` · **PRs welcome** · **Snapshot date:** **2026-02-18** (metrics may drift slightly after this date)
+**Maintainer:** `@wu-yc` · **PRs welcome** · **Snapshot date:** **2026-02-18** (metrics may drift slightly after this date)
 
 ---
 
